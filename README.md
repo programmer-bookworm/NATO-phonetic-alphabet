@@ -4,6 +4,9 @@
 
 This Python project demonstrates how to convert words into their corresponding NATO phonetic alphabet code words. It uses a CSV file as a data source, leverages Pandas for data manipulation, and includes examples of working with dictionaries and data frames. The project is ideal for beginners who want to learn about Python data structures, file I/O, and basic user interaction.
 
+
+**Note:** This code is entirely not my innovation; it was completed as a project in the Udemy course ["100 Days of Code: The Complete Python Pro Bootcamp"](https://www.udemy.com/course/100-days-of-code/).
+
 ## Features
 
 - Reads the NATO phonetic alphabet from a CSV file
